@@ -61,7 +61,7 @@ const messages = defineMessages({
   // Form buttons
   'create.account.for.free.button': {
     id: 'create.account.for.free.button',
-    defaultMessage: 'Create an account for free',
+    defaultMessage: 'Create an account for free SI2',
     description: 'Label text for registration form submission button',
   },
   'create.account.cta.button': {
